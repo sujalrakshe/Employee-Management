@@ -16,7 +16,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
+<<<<<<< HEAD
     "build": "react-scripts build",
+=======
+    "build": "react-scripts build", 
+>>>>>>> 1ead19a062c379308f401c88621cec5764e76058
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -40,7 +44,10 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.5.0",
+<<<<<<< HEAD
     "gh-pages": "^6.3.0",
+=======
+>>>>>>> 1ead19a062c379308f401c88621cec5764e76058
     "postcss": "^8.5.15",
     "tailwindcss": "^3.4.19"
   }
